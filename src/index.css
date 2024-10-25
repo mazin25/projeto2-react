@@ -1,0 +1,20 @@
+* {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.iniciDiv {
+    background-color: white;
+    padding: 20px;
+}
+.secondDiv{
+    background-color: gray;
+}
+
+.image {
+    width: 300px;
+}
